@@ -1,0 +1,53 @@
+.instagram-logo{
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: 40px;
+}
+.right-container{
+    border-left: solid;
+    border-left-width: 1px;
+    border-left-color: gray;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    padding: 12px 0px 12px 10px;
+    border-radius: 10px;
+}
+.menu:hover{
+    cursor: pointer;
+    background-color: lightgray;
+    font-weight: bolder;
+}
+.left-css{
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 12px;
+}
+.fit{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    width: 230px;
+    border-right: solid;
+    border-right-width: 1px;
+    border-right-color: gray;
+}
+.menuer{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    padding: 12px 0px 12px 10px;
+    border-radius: 10px;
+    margin-top: 200px;
+    font-size: 20px;
+}
+.menuer:hover{
+    cursor: pointer;
+    background-color: lightgray;
+    font-weight: bolder;
+}
